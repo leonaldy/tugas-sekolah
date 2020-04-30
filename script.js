@@ -35,6 +35,15 @@ function SortPrice(command="asc"){
     }
 }
 
+var menus = [];
+
+$.getJSON('data.json',function(results){
+    var makanan = results.makanan;
+    $.each(makanan,function(i,data){
+        menus.push(data);
+    });
+});
+
 tampilkanSemuaMenu();
 
 
