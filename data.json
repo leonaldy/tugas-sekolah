@@ -1,0 +1,152 @@
+{
+    "makanan": [
+        {
+            "kategori": "makanan",
+            "nama": "nasi goreng seafood",
+            "deskripsi": "nasi goreng, udang, cumi, cabai rawit, cabai keriting, daun bawang, selada",
+            "harga": "Rp.25.000,00,-",
+            "gambar": "seafood.jpeg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "nasi goreng spesial",
+            "deskripsi": "nasi goreng, telur mata sapi, ayam goreng suwir, cabai rawit, cabai keriting, selada, tomat, timun",
+            "harga": "Rp.20.000,00,-",
+            "gambar": "spesial.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "nasi uduk",
+            "deskripsi": "nasi uduk, bihun goreng, tempe orek, sambal kacang, telur balado, kerupuk, bawang goreng",
+            "harga": "Rp.20.000,00,-",
+            "gambar": "nasi_uduk.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "nasi kuning",
+            "deskripsi": "nasi, telur dadar potong , tempe orek, bihun goreng, bawang goreng, sambal merah",
+            "harga": "Rp.18.000,00,-",
+            "gambar": "nasi_kuning.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "mie goreng spesial",
+            "deskripsi": "mie, sawi, cabai, ayam suwir",
+            "harga": "Rp.15.000,00,-",
+            "gambar": "goreng.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "mie aceh kepiting",
+            "deskripsi": "mie, kerupuk, bawang merah, timun, daun seledri",
+            "harga": "Rp.15.000,00,-",
+            "gambar": "Mie-Aceh.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "capcay seafood",
+            "deskripsi": "wortel, jagung, saus tiram, brokoli, bakso, udang, cumi, sawi",
+            "harga": "Rp.40.000,00,-",
+            "gambar": "capcay.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "bakso pangsit",
+            "deskripsi": "bakso, pangsit, tahu, sawi, kuah kaldu ayam",
+            "harga": "Rp.15.000,00,-",
+            "gambar": "bakso.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "fu yung hai",
+            "deskripsi": "telur dadar, daging sapi, daun bawang, saus asam manis",
+            "harga": "Rp.40.000,00,-",
+            "gambar": "fu_yung_hai.jpg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "ice bomb",
+            "deskripsi": "es serut, sirup mint, chocolate chip, ice cream, pancake renyah, green tea lava cake.",
+            "harga": "Rp.17.000,00,-",
+            "gambar": "ice_bomb.jpg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "ice cream matcha cake",
+            "deskripsi": "ice cream vanila, saus matcha, kue saus blueberry.",
+            "harga": "Rp.15.000,00,-",
+            "gambar": "matcha.jpeg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "es sarang burung",
+            "deskripsi": "agar - agar, melon, kiwi, nata de coco, sirup kelapa, biji selasih, es serut.",
+            "harga": "Rp.17.000,00,-",
+            "gambar": "sarang-burung.jpg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "es campur",
+            "deskripsi": " es serut, sirup kelapa, buah nangka, buah kelapa, cincau, biji selasih",
+            "harga": "Rp.20.000,00,-",
+            "gambar": "images.jpeg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "Chocolate Sphere",
+            "deskripsi": "brownies coklat, honey crumbs, peanut butter mousse, caramelized nuts",
+            "harga": "Rp.23.000,00,-",
+            "gambar": "coklat.jpg"
+        },
+        {
+            "kategori": "desert",
+            "nama": "ice cream  3 flavours",
+            "deskripsi": "ice cream coklat, ice cream vanila, ice cream matcha, blueberry sauce, chocolatos, kiwi",
+            "harga": "Rp.23.000,00,-",
+            "gambar": "ice_cream.jpg"
+        },
+
+        {
+            "kategori": "minuman",
+            "nama": "avocado juice",
+            "deskripsi": "susu kental manis coklat, gula cair, juice alpukat, es batu",
+            "harga": "Rp.10.000,00,-",
+            "gambar": "alpukat.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "manggo juice",
+            "deskripsi": "susu kental manis vanila, gula cair, juice mangga, es batu",
+            "harga": "Rp.10.000,00,-",
+            "gambar": "mangga.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "apple juice",
+            "deskripsi": "susu kental manis vanila, gula cair, juice apel, es batu",
+            "harga": "Rp.10.000,00,-",
+            "gambar": "apel.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "old fashioned whiskey",
+            "deskripsi": "white sugar cube, soda water, whiskey, ice, orange and lemon peel",
+            "harga": "Rp.66.000,00,-",
+            "gambar": "old.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "whiskey sour",
+            "deskripsi": "fresh lemon juice, simple syrup, whiskey, ice, egg white ",
+            "harga": "Rp.54.000,00,-",
+            "gambar": "sour.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "gin martinez",
+            "deskripsi": "orange bitters, old tom gin, ice, sweetener, orange and lemon twist",
+            "harga": "Rp.59.000,00,-",
+            "gambar": "gin.png"
+        }
+    ]
+}
