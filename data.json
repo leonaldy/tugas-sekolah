@@ -4,84 +4,84 @@
             "category": "Makanan",
             "name": "nasi goreng seafood",
             "description": "nasi goreng, udang, cumi, cabai rawit, cabai keriting, daun bawang, selada",
-            "price": 2500000,
+            "price": 25000,
             "picture": "seafood.jpeg"
         },
         {
             "category": "Makanan",
             "name": "nasi goreng spesial",
             "description": "nasi goreng, telur mata sapi, ayam goreng suwir, cabai rawit, cabai keriting, selada, tomat, timun",
-            "price": 2000000,
+            "price": 20000,
             "picture": "spesial.jpg"
         },
         {
             "category": "Makanan",
             "name": "nasi uduk",
             "description": "nasi uduk, bihun goreng, tempe orek, sambal kacang, telur balado, kerupuk, bawang goreng",
-            "price": 2000000,
+            "price": 20000,
             "picture": "nasi_uduk.jpg"
         },
         {
             "category": "Makanan",
             "name": "nasi kuning",
             "description": "nasi, telur dadar potong , tempe orek, bihun goreng, bawang goreng, sambal merah",
-            "price": 1800000,
+            "price": 18000,
             "picture": "nasi_kuning.jpg"
         },
         {
             "category": "Makanan",
             "name": "mie goreng spesial",
             "description": "mie, sawi, cabai, ayam suwir",
-            "price": 1500000,
+            "price": 15000,
             "picture": "goreng.jpg"
         },
         {
             "category": "Makanan",
             "name": "mie aceh kepiting",
             "description": "mie, kerupuk, bawang merah, timun, daun seledri",
-            "price": 1500000,
+            "price": 15000,
             "picture": "Mie-Aceh.jpg"
         },
         {
             "category": "Makanan",
             "name": "capcay seafood",
             "description": "wortel, jagung, saus tiram, brokoli, bakso, udang, cumi, sawi",
-            "price": 4000000,
+            "price": 40000,
             "picture": "capcay.jpg"
         },
         {
             "category": "Makanan",
             "name": "bakso pangsit",
             "description": "bakso, pangsit, tahu, sawi, kuah kaldu ayam",
-            "price": 1500000,
+            "price": 15000,
             "picture": "bakso.jpg"
         },
         {
             "category": "Makanan",
             "name": "fu yung hai",
             "description": "telur dadar, daging sapi, daun bawang, saus asam manis",
-            "price": 4000000,
+            "price": 40000,
             "picture": "fu_yung_hai.jpg"
         },
         {
             "category": "Desert",
             "name": "ice bomb",
             "description": "es serut, sirup mint, chocolate chip, ice cream, pancake renyah, green tea lava cake.",
-            "price": 1700000,
+            "price": 17000,
             "picture": "ice_bomb.jpg"
         },
         {
             "category": "Desert",
             "name": "ice cream matcha cake",
             "description": "ice cream vanila, saus matcha, kue saus blueberry.",
-            "price": 1500000,
+            "price": 15000,
             "picture": "matcha.jpeg"
         },
         {
             "category": "Desert",
             "name": "es sarang burung",
             "description": "agar - agar, melon, kiwi, nata de coco, sirup kelapa, biji selasih, es serut.",
-            "price": 1700000,
+            "price": 17000,
             "picture": "sarang-burung.jpg"
         },
         {
@@ -95,14 +95,14 @@
             "category": "Desert",
             "name": "Chocolate Sphere",
             "description": "brownies coklat, honey crumbs, peanut butter mousse, caramelized nuts",
-            "price": 2300000,
+            "price": 23000,
             "picture": "coklat.jpg"
         },
         {
             "category": "Desert",
             "name": "ice cream  3 flavours",
             "description": "ice cream coklat, ice cream vanila, ice cream matcha, blueberry sauce, chocolatos, kiwi",
-            "price": 2300000,
+            "price": 23000,
             "picture": "ice_cream.jpg"
         },
 
@@ -110,42 +110,42 @@
             "category": "Minuman",
             "name": "avocado juice",
             "description": "susu kental manis coklat, gula cair, juice alpukat, es batu",
-            "price": 1000000,
+            "price": 10000,
             "picture": "alpukat.jpg"
         },
         {
             "category": "Minuman",
             "name": "manggo juice",
             "description": "susu kental manis vanila, gula cair, juice mangga, es batu",
-            "price": 1000000,
+            "price": 10000,
             "picture": "mangga.jpg"
         },
         {
             "category": "Minuman",
             "name": "apple juice",
             "description": "susu kental manis vanila, gula cair, juice apel, es batu",
-            "price": 1000000,
+            "price": 10000,
             "picture": "apel.jpg"
         },
         {
             "category": "Minuman",
             "name": "old fashioned whiskey",
             "description": "white sugar cube, soda water, whiskey, ice, orange and lemon peel",
-            "price": 6600000,
+            "price": 66000,
             "picture": "old.png"
         },
         {
             "category": "Minuman",
             "name": "whiskey sour",
             "description": "fresh lemon juice, simple syrup, whiskey, ice, egg white ",
-            "price": 5400000,
+            "price": 54000,
             "picture": "sour.png"
         },
         {
             "category": "Minuman",
             "name": "gin martinez",
             "description": "orange bitters, old tom gin, ice, sweetener, orange and lemon twist",
-            "price": 5900000,
+            "price": 59000,
             "picture": "gin.png"
         }
     ]

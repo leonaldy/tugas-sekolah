@@ -121,7 +121,7 @@ function displayAllMenu(){
     $.getJSON("data.json", function(result){
         var menu = result.menu;
         $.each(menu,function(i, data){
-            $('#menu-list').append('<div class="col-md-4 mb-4"><div class="card"><div class="view view-cascade overlay"><img src="img/'+data.picture+'" class="card-img-top" alt="..."></div><div class="card-body"><h5 class="card-title" style="text-align: center; color: black; font-weight: bold">'+data.name+'</h5><p class="card-text" style="text-align: center; color: black">'+data.description+'</p><h5 class="card-title" style="text-align: center; color: black">'+data.price+'K</h5><div class="button_cont" align="center"><a class="example_b" href="add-website-here" target="_blank" rel="nofollow noopener">ORDER NOW!</a></div></div></div></div>');
+            $('#menu-list').append('<div class="col-md-4 mb-4"><div class="card"><div class="view view-cascade overlay"><img src="img/'+data.picture+'" class="card-img-top"></div><div class="card-body"><h5 class="card-title" style="text-align: center; color: black; font-weight: bold">'+data.name+'</h5><p class="card-text" style="text-align: center; color: black">'+data.description+'</p><h5 class="card-title" style="text-align: center; color: black">Rp.'+data.price+',00,-</h5><div class="button_cont" align="center"><a class="example_b" href="add-website-here" target="_blank" rel="nofollow noopener">ORDER NOW!</a></div></div></div></div>');
         });
     });
 }
